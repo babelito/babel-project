@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5C18B577-B009-4365-A414-677BF3A5ED8B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>IHMBABEL</RootNamespace>
+    <AssemblyName>IHMBABEL</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Managers\ComboBoxItem.cs" />
+    <Compile Include="Classes\Managers\ConnectionManager.cs" />
+    <Compile Include="Classes\Managers\DisplayItem.cs" />
+    <Compile Include="Classes\Enums\EnumFileFormats.cs" />
+    <Compile Include="Classes\Enums\EnumFileLanguage.cs" />
+    <Compile Include="Classes\Files\FileTypes\Book.cs" />
+    <Compile Include="Classes\Files\BabelFiles.cs" />
+    <Compile Include="Classes\Files\FileTypes\Picture.cs" />
+    <Compile Include="Classes\Managers\FileManager.cs" />
+    <Compile Include="Classes\Managers\ListViewItemComparer.cs" />
+    <Compile Include="Classes\Managers\PlaylistManager.cs" />
+    <Compile Include="Classes\Managers\SearchManager.cs" />
+    <Compile Include="Classes\Managers\UserManager.cs" />
+    <Compile Include="Classes\Playlists\Playlist.cs" />
+    <Compile Include="Classes\Users\Comment.cs" />
+    <Compile Include="Classes\Users\Subscriber.cs" />
+    <Compile Include="Classes\Users\UploadDownload.cs" />
+    <Compile Include="Classes\Users\User.cs" />
+    <Compile Include="Classes\Users\ConnectedUser.cs" />
+    <Compile Include="FormAddNewFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddNewFile.Designer.cs">
+      <DependentUpon>FormAddNewFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddNewPlaylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddNewPlaylist.Designer.cs">
+      <DependentUpon>FormAddNewPlaylist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddToPlaylist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddToPlaylist.Designer.cs">
+      <DependentUpon>FormAddToPlaylist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConnection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConnection.Designer.cs">
+      <DependentUpon>FormConnection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormBabelAccueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBabelAccueil.Designer.cs">
+      <DependentUpon>FormBabelAccueil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormInscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInscription.Designer.cs">
+      <DependentUpon>FormInscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPlayer.Designer.cs">
+      <DependentUpon>FormPlayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\Files\FileTypes\Song.cs" />
+    <Compile Include="Classes\Files\FileTypes\Video.cs" />
+    <EmbeddedResource Include="FormAddNewFile.resx">
+      <DependentUpon>FormAddNewFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddNewPlaylist.resx">
+      <DependentUpon>FormAddNewPlaylist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddToPlaylist.resx">
+      <DependentUpon>FormAddToPlaylist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConnection.resx">
+      <DependentUpon>FormConnection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBabelAccueil.resx">
+      <DependentUpon>FormBabelAccueil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInscription.resx">
+      <DependentUpon>FormInscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPlayer.resx">
+      <DependentUpon>FormPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the-lovers-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loupe2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundBabel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imageAssoc3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Brel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reineNeige.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PIPE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Le-festin-nu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nakedluck.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ninjatest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

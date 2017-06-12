@@ -1,0 +1,134 @@
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.exe
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.pdb
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.Form1.resources
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.exe
+c:\users\debla-pc\documents\visual studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.Form1.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABEL\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Debla-PC\Documents\Visual Studio 2015\Projects\IHMBABELUC\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewFile.resources
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.csproj.ResolveComReference.cache
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Mizuha\Documents\Cours\B2\Projet C sharp\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormPlayer.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.csproj.ResolveComReference.cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewFile.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.FormPlayer.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\IHMBABELENOUVEAUDEPART\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.ResolveComReference.cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewFile.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormPlayer.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Luc rodiere\Documents\Visual Studio 2015\Projects\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+E:\EPSI\B2\E4\BABEL\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+E:\EPSI\B2\E4\BABEL\IHMBABEL\bin\Debug\IHMBABEL.exe
+E:\EPSI\B2\E4\BABEL\IHMBABEL\bin\Debug\IHMBABEL.pdb
+E:\EPSI\B2\E4\BABEL\IHMBABEL\bin\Debug\Interop.WMPLib.dll
+E:\EPSI\B2\E4\BABEL\IHMBABEL\bin\Debug\AxInterop.WMPLib.dll
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\Interop.WMPLib.dll
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\AxInterop.WMPLib.dll
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.ResolveComReference.cache
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewFile.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormPlayer.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.exe
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.pdb
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewPlaylist.resources
+E:\EPSI\B2\E4\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddToPlaylist.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\bin\Debug\IHMBABEL.exe.config
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\Interop.WMPLib.dll
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.ResolveComReference.cache
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\bin\Debug\IHMBABEL.exe
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\bin\Debug\IHMBABEL.pdb
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\bin\Debug\Interop.WMPLib.dll
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csprojResolveAssemblyReference.cache
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewFile.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddNewPlaylist.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormAddToPlaylist.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormConnection.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormBabelAccueil.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormInscription.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.FormPlayer.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.Properties.Resources.resources
+C:\Users\Luc rodiere\Desktop\BABEL\IHMBABEL\obj\Debug\IHMBABEL.csproj.GenerateResource.Cache
